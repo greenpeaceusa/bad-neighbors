@@ -8,7 +8,7 @@ Energy Transfer (ET) has a complex corporate structure that has changed signific
 
 * `ET Gas Releases.xlsx`: dataset containing all PHMSA-reported gas release incidents from ET’s pipeline network from 2010-present.
 * `ET Hazardous Liquid Spills.xlsx`: dataset containing all PHMSA-reported hazardous liquids incidents from ET’s pipeline network from 2018-present. Note that the Bad Neighbor report also includes hazardous liquid spill incidents reported by PHMSA between 2010 and the end of 2017. These records are published in the Greenpeace USA <a href="https://www.greenpeace.org/usa/oil-and-water/"><i>Oil and Water</i></a> report. 
-* `ET Texas COBRA Results.xlsx`: TCEQ air emissions data and selected COBRA results by facility and by county for 90 facilities in Texas. These results approximate health impacts associated with select ET facilities in Texas.
+* `ET Texas COBRA Results.xlsx`: TCEQ air emissions data and selected COBRA results by facility and by county for 90 Energy Transfer facilities in Texas. We used EPA’s COBRA tool to estimate health impacts from this subset of Energy Transfer’s Texas-based facilities.
 * `ET/Sunoco Penalties.xlsx`: compiled dataset containing details and sources on ET’s violations, penalties, and other enforcement costs.
 
 Details on how each dataset was collected and refined are available in the <i>Bad Neighbor</i> report appendix.
